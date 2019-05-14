@@ -24,7 +24,6 @@ public class AddPersonas extends AppCompatActivity {
         setContentView(R.layout.activity_add_personas);
 
         etnombre = findViewById(R.id.etnombre);
-        etapellido = findViewById(R.id.etapellido);
         etedad = findViewById(R.id.etedad);
         rbhombre = findViewById(R.id.Hombre);
         rbmujer = findViewById(R.id.Mujer);

@@ -25,7 +25,6 @@ public class ModifPersonas extends AppCompatActivity {
         setContentView(R.layout.activity_modif_personas);
 
         etnombrem = findViewById(R.id.etnombrem);
-        etapellidom = findViewById(R.id.etapellidom);
         etedadm = findViewById(R.id.etedadm);
         rbhombre = findViewById(R.id.Hombre);
         rbmujer = findViewById(R.id.Mujer);
